@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "For bạn cr nqu zl",
-    introTitle: 'Vinh',
+    introTitle: 'hi bạn cr mình',
     introDesc: `Baby em khiến con tim này trằn trọc
 Thao thức bao đêm ngày sàng lọc
 Từng lời ca như đang mong
